@@ -1,5 +1,8 @@
-**MIT lectures, what have I learned/need to practice:**
+## **First python tutorials**
+https://www.youtube.com/playlist?list=PLpOqH6AE0tNiK7QN6AJo_3nVGQPc8nLdM
 
+## **MIT lectures, what have I learned/need to practice:**
+https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/
 - Pythonic for loops with elements directly
 
 - Specification for functions (at the start comment what it does, and what inputs/outputs has)
