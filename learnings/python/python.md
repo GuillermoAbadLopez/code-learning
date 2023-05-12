@@ -1,4 +1,4 @@
-## **First python tutorials**
+## **First python tutorials:**
 https://www.youtube.com/playlist?list=PLpOqH6AE0tNiK7QN6AJo_3nVGQPc8nLdM
 
 ## **MIT lectures, what have I learned/need to practice:**
@@ -20,3 +20,12 @@ https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programm
 - Black box testing (with specification only, it can be math boundries, irrationals, decimals, extremes, etc...) & glass box testing (with code, go through all paths of the code, through code boundaries also)
 
 - Debugg with [try: , except: , assertions &  with prints/raises/returns, etc..]
+
+## **Youtube list recommended by Joel:**
+https://www.youtube.com/playlist?list=PLC0nd42SBTaNuP4iB4L6SJlMaHE71FG6N
+
+## **Next MIT courses:**
+- https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/
+- https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/
+- https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/
+- https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/
