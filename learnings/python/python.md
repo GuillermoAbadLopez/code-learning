@@ -21,5 +21,21 @@ https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programm
 
 - Debugg with [try: , except: , assertions &  with prints/raises/returns, etc..]
 
+## **Qilimanjaro leanings:**
+- Abstract classes are OP
+
+- @dataclass makes your life easier, for example no need for init, you can write the data as attributes directly
+
+- Factoryelements cool too
+
+- Pytest and fixtures are amazing, debug with set_trace()
+
 ## **Youtube list recommended by Joel:**
 https://www.youtube.com/playlist?list=PLC0nd42SBTaNuP4iB4L6SJlMaHE71FG6N
+- COHESION: Group things as it makes sense, and make lots of functions that do little thing inside each class.
+
+- COUPLING: Minimize coupling, is something is too much coupled with another thing, maybe they should be the same thing, or have inherance
+
+- ABSTRACTION: Use ABC to denote abstraction
+
+- DEPENDENCY INVERION: 
