@@ -22,7 +22,7 @@ https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programm
 - Debugg with [try: , except: , assertions &  with prints/raises/returns, etc..]
 
 ## **Qilimanjaro leanings:**
-- Abstract classes are OP
+- Abstract classes are OP (ABC w @abstractclass)
 
 - @dataclass makes your life easier, for example no need for init, you can write the data as attributes directly
 
@@ -38,4 +38,4 @@ https://www.youtube.com/playlist?list=PLC0nd42SBTaNuP4iB4L6SJlMaHE71FG6N
 
 - ABSTRACTION: Use ABC to denote abstraction
 
-- DEPENDENCY INVERION: 
+- DEPENDENCY INVERION: If various things do somehting, make and abstract class to group them
