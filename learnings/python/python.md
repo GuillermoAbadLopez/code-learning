@@ -39,3 +39,11 @@ https://www.youtube.com/playlist?list=PLC0nd42SBTaNuP4iB4L6SJlMaHE71FG6N
 - ABSTRACTION: Use ABC to denote abstraction
 
 - DEPENDENCY INVERION: If various things do somehting, make and abstract class to group them
+
+- SMALL classes, separate things into subgroups that are cohesive, but not everything in a super big group, do splits that make sense.
+
+- CACHE usage, with @cached_property for properties or with @lru_cache() for functions
+
+
+
+
