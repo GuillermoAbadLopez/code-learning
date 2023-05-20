@@ -48,5 +48,6 @@ https://www.youtube.com/playlist?list=PLC0nd42SBTaNuP4iB4L6SJlMaHE71FG6N
 
 - DECORATORS are just functions that recieve functions and return other functions
 
-
-
+- DESIGNS PATERNS:
+-- STRATEGY:
+-- FACTORY:
