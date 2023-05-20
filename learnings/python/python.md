@@ -50,6 +50,10 @@ https://www.youtube.com/playlist?list=PLC0nd42SBTaNuP4iB4L6SJlMaHE71FG6N
 
 - DECORATORS are just functions that recieve functions and return other functions
 
-- DESIGNS PATERNS:
--- STRATEGY:
--- FACTORY:
+- DESIGNS PATERNS: 
+    - DECORATOR: Gives an extra functionality to a previous class (wrapps it around with extra things)
+    - STRATEGY: Change the behaviour of something (the guts) in runtime depending of input: if car -> build_car_route, if boat -> build_boat rute, ...
+    - FACTORY: Change the object you create depending on input: if car -> create car object, if boat -> create car object,...
+    - ABSTRACT FACTORY: It implements multiple factory methods at the same time...
+    - OBSERVER: 
+
