@@ -30,6 +30,8 @@ https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programm
 
 - Pytest and fixtures are amazing, debug with `set_trace()` or better with debugging run in pytest interface.
 
+- Polymorfism is the provision of a single interface to entities of different types[1] or the use of a single symbol to represent multiple different types https://en.wikipedia.org/wiki/Polymorphism_(computer_science)
+
 ## **Youtube list recommended by Joel:**
 https://www.youtube.com/playlist?list=PLC0nd42SBTaNuP4iB4L6SJlMaHE71FG6N
 - COHESION: Group things as it makes sense, and make lots of functions that do little thing inside each class.
