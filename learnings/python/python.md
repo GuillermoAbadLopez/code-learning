@@ -46,6 +46,7 @@ https://www.youtube.com/playlist?list=PLC0nd42SBTaNuP4iB4L6SJlMaHE71FG6N
 
 - https://realpython.com/python-kwargs-and-args/ `*args` & `**kwarg` for iterating arguments and keyword-arguments as tuples and dictionaries. * also unpacks any iterable and ** unpacks dictionaries:  `def my_function(a, b, *args, **kwargs):` 
 
+- DECORATORS are just functions that recieve functions and return other functions
 
 
 
