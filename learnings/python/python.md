@@ -11,7 +11,7 @@ https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programm
 
 - Tuples [Inmutable] vs List [mutable] (alisaing and clonning problems too)
 
-- Recursion functions ( f(x)= something & f(x-1) )
+- Recursion functions ( `f(x)= something & f(x-1)` )
 
 - Dictionaries (play with them, understand them)
 
@@ -24,11 +24,11 @@ https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programm
 ## **Qilimanjaro leanings:**
 - Abstract classes are OP (ABC w @abstractclass)
 
-- @dataclass makes your life easier, for example no need for init, you can write the data as attributes directly
+- `@dataclass` makes your life easier, for example no need for init, you can write the data as attributes directly
 
 - Factoryelements cool too
 
-- Pytest and fixtures are amazing, debug with set_trace()
+- Pytest and fixtures are amazing, debug with `set_trace()` or better with debugging run in pytest interface.
 
 ## **Youtube list recommended by Joel:**
 https://www.youtube.com/playlist?list=PLC0nd42SBTaNuP4iB4L6SJlMaHE71FG6N
@@ -42,9 +42,10 @@ https://www.youtube.com/playlist?list=PLC0nd42SBTaNuP4iB4L6SJlMaHE71FG6N
 
 - SMALL classes, separate things into subgroups that are cohesive, but not everything in a super big group, do splits that make sense.
 
-- CACHE usage, with @cached_property for properties or with @lru_cache() for functions
+- CACHE usage, with `@cached_property` for properties or with `@lru_cache()` for functions
 
-- *args & \**kwarg for arguments and keyword-arguments, it just a way of iterate arguments as tuples and dictionaries
+- `*args` & `**kwarg` for iterating arguments and keyword-arguments as tuples and dictionaries. * also unpacks any iterable and ** unpacks dictionaries: 
+`def my_function(a, b, *args, **kwargs):`
 
 
 
