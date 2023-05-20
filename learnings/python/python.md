@@ -44,6 +44,8 @@ https://www.youtube.com/playlist?list=PLC0nd42SBTaNuP4iB4L6SJlMaHE71FG6N
 
 - CACHE usage, with @cached_property for properties or with @lru_cache() for functions
 
+- *args & \**kwarg for arguments and keyword-arguments, it just a way of iterate arguments as tuples and dictionaries
+
 
 
 
