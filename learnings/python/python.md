@@ -55,7 +55,7 @@ https://www.youtube.com/playlist?list=PLC0nd42SBTaNuP4iB4L6SJlMaHE71FG6N
     - ABSTRACT FACTORY: It implements multiple factory methods at the same time...
     - OBSERVER: 
 
-- DEPENDENCY INJECTION: Takes the creation of the dependacy class outside the dependent class. So basically you have to pass the the dependacy class already instanciated to the dependant class. Making everything easier to test! (Without this there can not be DEPENDENCY INVERSION) 
+- DEPENDENCY INJECTION: Takes the creation of the dependacy class outside the dependent class. So basically you have to pass the the dependacy class already instanciated to the dependant class (You INJECT the class you depend on!). Making everything easier to test! (Without this there can not be DEPENDENCY INVERSION) 
 
 - DEPENDENCY INVERION_take1: If various things do somehting, make and abstract class to group them
 
