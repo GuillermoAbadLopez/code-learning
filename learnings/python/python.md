@@ -40,8 +40,6 @@ https://www.youtube.com/playlist?list=PLC0nd42SBTaNuP4iB4L6SJlMaHE71FG6N
 
 - ABSTRACTION: Use ABC to denote abstraction
 
-- DEPENDENCY INVERION: If various things do somehting, make and abstract class to group them
-
 - SMALL classes, separate things into subgroups that are cohesive, but not everything in a super big group, do splits that make sense.
 
 - CACHE usage, with `@cached_property` for properties or with `@lru_cache()` for functions
@@ -59,6 +57,8 @@ https://www.youtube.com/playlist?list=PLC0nd42SBTaNuP4iB4L6SJlMaHE71FG6N
 
 - DEPENDENCY INJECTION: Takes the creation of the dependacy class outside the dependent class. So basically you have to pass the the dependacy class already instanciated to the dependant class. Making everything easier to test! (Without this there can not be DEPENDENCY INVERSION) 
 
-- DEPENDENCY INVERSION: Higher classes shouldnt depend on lower ones, instead have interfaces for that dependancy, so if you can change the lower ones, but they still fullfull the interface there will be no problem! (I believe this is what we do when we create the abstract classes of PulseShape or PulseDistortion, they are the interfaces so that Pulse or PulseEvent don't depend on the subclasses directly!)
+- DEPENDENCY INVERION_1: If various things do somehting, make and abstract class to group them
+
+- DEPENDENCY INVERSION_2: Higher classes shouldnt depend on lower ones, instead have interfaces for that dependancy, so if you can change the lower ones, but they still fullfull the interface there will be no problem! (I believe this is what we do when we create the abstract classes of PulseShape or PulseDistortion, they are the interfaces so that Pulse or PulseEvent don't depend on the subclasses directly!)
 [https://medium.com/ssense-tech/dependency-injection-vs-dependency-inversion-vs-inversion-of-control-lets-set-the-record-straight-5dc818dc32d1#:~:text=The%20Inversion%20of%20Control%20is,dependencies%20to%20an%20application's%20class]
 
