@@ -57,7 +57,7 @@ https://www.youtube.com/playlist?list=PLC0nd42SBTaNuP4iB4L6SJlMaHE71FG6N
 
 - DEPENDENCY INJECTION: Takes the creation of the dependacy class outside the dependent class. So basically you have to pass the the dependacy class already instanciated to the dependant class (You INJECT the class you depend on!). Making everything easier to test! (Without this there can not be DEPENDENCY INVERSION) 
 
-- DEPENDENCY INVERION_take1: If various things do somehting, make and abstract class to group them
+- DEPENDENCY INVERION_take1: If various things do somehting, make and abstract class to group them. This helps to create more subclasses, without problems! (If they fullfill the interface ofcourse)
 
 - DEPENDENCY INVERSION_take2: Higher classes shouldnt depend on lower ones, instead have interfaces for that dependancy, so if you can change the lower ones, but they still fullfull the interface there will be no problem! (I believe this is what we do when we create the abstract classes of PulseShape or PulseDistortion, they are the interfaces so that Pulse or PulseEvent don't depend on the subclasses directly!)
 [https://medium.com/ssense-tech/dependency-injection-vs-dependency-inversion-vs-inversion-of-control-lets-set-the-record-straight-5dc818dc32d1#:~:text=The%20Inversion%20of%20Control%20is,dependencies%20to%20an%20application's%20class]
