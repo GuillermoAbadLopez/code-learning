@@ -32,7 +32,7 @@ https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programm
 
 - Polymorfism is the provision of a single interface to entities of different types[1] or the use of a single symbol to represent multiple different types https://en.wikipedia.org/wiki/Polymorphism_(computer_science)
 
-NASA space-proof code:
+## **NASA space-proof code:**
 https://m.youtube.com/watch?v=GWYhtksrmhE
 - Have variables in the lowest scope possible so, if it fails you know where to look: 
 - Limit loops sizes
