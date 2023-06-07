@@ -21,10 +21,24 @@ https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programm
 
 - Debugg with [try: , except: , assertions &  with prints/raises/returns, etc..]
 
+
+## ** OOP in python:**
+- Contructors: ___init___ creates the class with initial attributes
+- Methods: are functions/operations within the class
+- Instances: are usages of the class
+- Use getters and setters for accessing/changing an object, so you don't modify it into not allowed types
+- No standard way to get the name of the object
+- Default values in attributes makes that you don't need to write them when creating the instance
+- Subclasses have as types their upperclass, and they inherit all the attributes and methods of it
+- Class variables vs instance vairables (each instance can increment class counter for example)
+- Decorators (wrapper, wrapps the function under it [the function under it defines functions inside the wrapper which is the main thing])
+- Classmethods/instancemethods/staticmethods understand/use them
+
+
 ## **Qilimanjaro leanings:**
 - Abstract classes are OP (ABC w @abstractclass)
 
-- `@dataclass` makes your life easier, for example no need for init, you can write the data as attributes directly
+- `@dataclass` makes your life easier, for example no need for ___init___, ___eq___ or ___str___ methods, you can write the data as attributes directly (also defaults values added) [https://hackthedeveloper.com/python-dataclass/]
 
 - Factoryelements cool too
 
