@@ -22,7 +22,7 @@ https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programm
 - Debugg with [try: , except: , assertions &  with prints/raises/returns, etc..]
 
 
-## ** OOP in python:**
+## **OOP in python:**
 - Contructors: ___init___ creates the class with initial attributes
 - Methods: are functions/operations within the class
 - Instances: are usages of the class
