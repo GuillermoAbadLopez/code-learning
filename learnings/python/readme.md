@@ -46,6 +46,9 @@ https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programm
 
 - Polymorfism is the provision of a single interface to entities of different types[1] or the use of a single symbol to represent multiple different types https://en.wikipedia.org/wiki/Polymorphism_(computer_science)
 
+- __ post_init___() method gets run automatically after the initialization with __ init__() or with @dataclass automatic one. And it should be used to initialize variables not in the call, such as default values, or area=height*base for example, and to check types of the class/ raise errors: https://hackthedeveloper.com/python-post-init-data-class/
+
+
 ## **NASA space-proof code:**
 https://m.youtube.com/watch?v=GWYhtksrmhE
 - Have variables in the lowest scope possible so, if it fails you know where to look: 
