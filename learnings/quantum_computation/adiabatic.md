@@ -6,3 +6,7 @@
 - Berry phase for a closed path is gauge invariant, so it is and observable, and has a connection associated, which has a flux, that give a curvature, etc!
 - The geometrical phase is given by the solid angle traced by the loop in bloch sphere
 - The berry connection appears in the effective nuclear hamiltonians, as the effect of the electronic wave functions on the nucleus!
+
+## **QAOA:**
+- Split the time evolution into multiple ones
+- Do gradient descent to find the better one
