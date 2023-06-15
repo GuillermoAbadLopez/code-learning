@@ -80,7 +80,7 @@ https://www.youtube.com/playlist?list=PLC0nd42SBTaNuP4iB4L6SJlMaHE71FG6N
     - FACTORY: Change the object you create depending on input: if car -> create car object, if boat -> create car object,...
     - ABSTRACT FACTORY: It implements multiple factory methods at the same time...
     - OBSERVER: 
-    - STRATEGY vs FACTORY: https://stackoverflow.com/questions/616796/what-is-the-difference-between-factory-and-strategy-patterns
+    - [STRATEGY vs FACTORY web](https://stackoverflow.com/questions/616796/what-is-the-difference-between-factory-and-strategy-patterns)
 
 - DEPENDENCY INJECTION: Takes the creation of the dependacy class outside the dependent class. So basically you have to pass the the dependacy class already instanciated to the dependant class (You INJECT the class you depend on!). Making everything easier to test, since you can fixture the INJECT objects! (Without this there can not be DEPENDENCY INVERSION)
 <img width="675" alt="Screenshot 2023-05-29 at 14 36 54" src="https://github.com/GuillermoAbadLopez/code-learning/assets/109400222/e5f2dd85-fe5c-4846-8bcd-8c861f4bfcdf">
