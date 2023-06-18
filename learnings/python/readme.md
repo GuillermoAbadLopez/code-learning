@@ -38,7 +38,8 @@ https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programm
 ## **Qilimanjaro leanings:**
 - Abstract classes are OP (ABC w @abstractclass)
 
-- `@dataclass` makes your life easier, for example no need for ___init___, ___eq___ or ___str___ methods, you can write the data as attributes directly (also defaults values added) [https://hackthedeveloper.com/python-dataclass/]
+- `@dataclass` makes your life easier, for example no need for ___init___, ___eq___ or ___str___ methods, you can write the data as attributes directly (also defaults values added) [https://hackthedeveloper.com/python-dataclass/] <img width="517" alt="Screenshot 2023-06-18 at 14 54 22" src="https://github.com/GuillermoAbadLopez/code-learning/assets/109400222/1cc04563-67a3-40c5-8122-678c7598f2a9">
+
 
 - Factoryelements cool too
 
